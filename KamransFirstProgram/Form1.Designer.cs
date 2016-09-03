@@ -33,9 +33,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(87, 101);
+            this.button1.Location = new System.Drawing.Point(75, 81);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(123, 21);
+            this.button1.Size = new System.Drawing.Size(123, 87);
             this.button1.TabIndex = 0;
             this.button1.Text = "Hi Kamran, Press me!";
             this.button1.UseVisualStyleBackColor = true;
