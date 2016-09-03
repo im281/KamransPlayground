@@ -21,6 +21,7 @@ namespace KamransFirstProgram
         {
             MessageBox.Show("Hi Kamran, Its Daddy!");
             MessageBox.Show("find the diamond sword");
+            //test
         }
     }
 }
