@@ -24,11 +24,20 @@ namespace KamransFirstProgram
 
         private static void Our1stMethod()
         {
+
+            for (int i = 0; i < 10; i++) 
+            {
+                MessageBox.Show("i did   it ");
+            }
+
+            MessageBox.Show("hit the other team");
+
+
             MessageBox.Show("Hi Kamran, Its Daddy!");
             MessageBox.Show("find the diamond sword");
             MessageBox.Show("find block");
 
-            for (int i = 0; i < 100000; i++)
+            for (int i = 0; i < 10; i++)
             {
                 MessageBox.Show("What is the answer to:" + i + " " + "+" + 3 + " ?");
                 MessageBox.Show(Convert.ToString(i + 3));
